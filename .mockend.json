@@ -1,8 +1,6 @@
 {
- "category": {
-    "string": ["One", "Two"]
-  },
-  "code": {
-    "int": [100, 200, 300]
-  }
+ "Data": {
+   "id": 1,
+   "text": "string"
+ }
 }
