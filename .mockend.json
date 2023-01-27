@@ -1,8 +1,6 @@
-[
-  {
-    "Data": {
-      "id": 1,
-      "text": "string"
-    }
+{
+  "Data": {
+    "id": 1,
+    "text": "string"
   }
-]
+}
